@@ -1,1 +1,59 @@
-<mxfile host="app.diagrams.net" modified="2021-10-25T23:57:46.018Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="pXE6Nde0ViuH2_ZZ2LAi" version="15.5.6" type="github"><diagram id="DN5aOqPNuUpptSyLosvj" name="Page-1">7VrZctowFP2WPvixGdtCXh7Z0jKTrUAnyVNHxYrt1iBHiAD9+sq2jBcBcQawYSZ5INbVgnR1zrlXMgroTlffKAq9W+LgQNFVZ6WAnqLrttnin5FhnRigpSYGl/pOYtIyw8j/h4UxbbbwHTwvNGSEBMwPi8YJmc3whBVsiFKyLDZ7IUHxW0PkYskwmqBAtj76DvOEVTPsrOI79l1PfLWlm0nFFKWNxUrmHnLIMmcCfQV0KSEseZquujiIfJf6Jel3vaN2MzGKZ6xKhyFzfg17uvvwOB69+t2/1x0VfxWTnbN1umDs8PWLIqHMIy6ZoaCfWTuULGYOjkZVeSlrc0NIyI0aN/7BjK3FZqIFI9zksWkgavHKZ09R9ysoSs+5mt5KjBwX1mlhxuj6KV94zkaIilm3uJT2S9YXLWqn24RpThZ0gvf4KoUfoi5me9qBzeZyUmAyxXw+vB/FAWL+W3EeSMDT3bQTXduUonWuQUj8GZvnRn6IDLzBKkWkgJngmWbBPBr4QzJiWspNLTPFiPkAesQi3lCwEMsajdvDsYSpDDHRJi89n+FRiGJnL7lqFNEhxsSU4dX+PZN9LDrAoi9MUVzmCJyy0stx11B3b0rOkR/3k90ky7QcxzLGnS3LQEWWaep2CHyMZhKPWq0idqwSJpJ5iU4lWByBUUBiVFvR+VBqR4ZQEPAgiGshlFbyimbIlDK3MAqeilGa/kmp6oFLrcqpHSiozKnD9lSVwH/TH3D8q+3GI8oG3XsIYNVKAHApmdsxgXwoPndoPihurpQInFj0NTmPEsCXVb9u4AP73IAPL0X5jwn81kmAD8vAt2G9wLcuRcSyKJ4F7udC3D59FG9VjeJmo1G8JYnZ4DqRMjUubovmHpn+XszrETRrh9jnT4fqFkUzT6VomwuiTxZUYIFRkQW7YHCgZBp6ET7AMOqVTEOi12hwKwOo6uEQzcPk2vTFX0VwOsr1i5RPmVdQIhmEW7IGuHs/DuIYgJLbmiDdMYlgViQCODR3OCwcmJLj75QuUCxwf16gbal6CtJ1apEjQ62g1S/wdr6xwLB5O/RuYLBqCQxQrfnm8PNG7BRgaVQ8dfliIM6lo6sBRTfQNNJFl8W+UeVzcZ1pNTTLeZEc8WtOqy/mhuwc1LPq4VI3TqKelmpf2bk/qxiJrU1srklNdfkUe3Zptlk+iph602m2Lp9OHoeDcT/Rq9dF9FuHTnwTEKWANn+4bQ/uh/z/j59RI/glaybLWc1Xn6ZZygcbf48MNMkpZyppx5Qmq6I0gUPfCB8GfUuC/nkedKAtHXSspk/n8pu/7bKRefQiFAQapTOB1biCyHGtf9eTHDX3UBg98qWiIMABcSmacp+EmPp8IpiW6x6yivf8GkNZiM2x7nRLyScE2yLhsTzNi9mv9pKEI/vpI+j/Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-26T00:20:43.363Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 OPR/80.0.4170.63" etag="Nz42S-t2GbwGruM-VUgh" version="15.5.6" type="github">
+  <diagram id="DN5aOqPNuUpptSyLosvj" name="Page-1">
+    <mxGraphModel dx="828" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MTX2792UNsKBws1nsAEz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTX2792UNsKBws1nsAEz-1" target="MTX2792UNsKBws1nsAEz-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTX2792UNsKBws1nsAEz-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTX2792UNsKBws1nsAEz-1" target="MTX2792UNsKBws1nsAEz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MTX2792UNsKBws1nsAEz-1" value="START" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MTX2792UNsKBws1nsAEz-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTX2792UNsKBws1nsAEz-4" target="MTX2792UNsKBws1nsAEz-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTX2792UNsKBws1nsAEz-4" value="REAL: VEL" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="220" width="62.5" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MTX2792UNsKBws1nsAEz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MTX2792UNsKBws1nsAEz-6" target="MTX2792UNsKBws1nsAEz-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTX2792UNsKBws1nsAEz-6" value="STR: PLACA" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="62.5" height="62.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MTX2792UNsKBws1nsAEz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MTX2792UNsKBws1nsAEz-12" target="MTX2792UNsKBws1nsAEz-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTX2792UNsKBws1nsAEz-12" value="LEIA: PLACA&lt;br&gt;LEIA: VEL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="380" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MTX2792UNsKBws1nsAEz-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MTX2792UNsKBws1nsAEz-14" target="MTX2792UNsKBws1nsAEz-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTX2792UNsKBws1nsAEz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="MTX2792UNsKBws1nsAEz-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MTX2792UNsKBws1nsAEz-14" value="IF VEL &amp;gt; 60" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MTX2792UNsKBws1nsAEz-16" value="WRITE: MULTA DE EXCESSO DE VELOCIDADE PARA: PLACA" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="250" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
